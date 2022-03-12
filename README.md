@@ -1,7 +1,7 @@
 # Railway Deployer
 
 <p align="center">
-  <a href="https://railway.app/new/template?code=FQTjAJ&referralCode=notreallyshikhar"><img src="https://railway.app/button.svg" width="400"/></a>
+  <a href="https://railway.app/new/template?code=FQTjAJ&referralCode=MdNoor786"><img src="https://railway.app/button.svg" width="400"/></a>
 </p>
 
 
@@ -11,7 +11,7 @@
 
 - Verify your account and accept the terms and conditions of railway. 
 
-- Click on the [button](https://railway.app/new/template?code=FQTjAJ&referralCode=notreallyshikhar) above to deploy on railway
+- Click on the [button](https://railway.app/new/template?code=FQTjAJ&referralCode=MdNoor786) above to deploy on railway
 
 <p align="center">
     <img src="https://telegra.ph//file/70528eb60f470f19513f9.jpg" height="360" width="640" alt="RAILWAY"><br><br><br>
